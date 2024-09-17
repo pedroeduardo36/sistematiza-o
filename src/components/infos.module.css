@@ -1,0 +1,20 @@
+.infoContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 2rem;
+    gap: 2rem;
+    background-color: var(--white);
+}
+
+strong {
+    color: var(--green);
+    font-size: 32px;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: row;
+}
