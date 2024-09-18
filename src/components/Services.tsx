@@ -4,7 +4,7 @@ import { FirstAid } from "phosphor-react";
 
 export function Services() {
   return (
-    <div className={styles.mainContainer}>
+    <div className={styles.mainServicesContainer}>
       <strong>Nossos Serviços</strong>
 
       <div className={styles.servicesContainers}>
